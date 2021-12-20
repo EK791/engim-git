@@ -1,5 +1,6 @@
-- Pane
 - Latte
-- Frutta
-- Verdura
 - Pesce
+- Verdura
+- Carne
+- Olio
+- Latte

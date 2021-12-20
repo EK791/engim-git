@@ -2,4 +2,4 @@
 - Latte
 - Frutta
 - Verdura
-- Carne
+- Pesce

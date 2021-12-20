@@ -1,0 +1,5 @@
+- Pane
+- Latte
+- Frutta
+- Verdura
+- Carne
